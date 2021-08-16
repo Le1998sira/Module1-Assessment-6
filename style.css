@@ -1,0 +1,43 @@
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: palegreen;
+}
+
+th{
+    font-weight: 800;
+    background-color: mediumslateblue;
+    color: peru;
+}
+
+tr{
+    background-color: peru;
+}
+
+a:hover{
+    background-color: maroon;
+    color: beige;
+}
+
+#menu-bar a{
+    font-family:Helvetica, sans-serif;
+    text-decoration: darkturquoise;
+    background-color: darkred;
+}
+
+body{
+    background-color: peachpuff;
+}
+
+h4{
+    background-color: chocolate;
+    color:darkgray;
+}
+
+p{
+    background-color: orchid;
+    color: darkorchid;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
